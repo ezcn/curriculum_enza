@@ -16,13 +16,13 @@
 ## Courses and Conference organisation
 |DateStart| DateEnd| Conferences/Courses |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|2017 | 2021| [EMBO Practical Course Population Genomics:background, and tools]() |Advisor, Programme Committee| [Link](https://embo-popgen.centercongressi.com/faculty.php)|
-|2019 | 2021| [Conference:BioHackathon-europe]() |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
-|2019-07-03 | 2019-07-05| [Course: Software Carpentry Workshop - Shell, Git, R]() |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/)|
-|2019-05-07 | 2019-05-09| [Course:Practical course on Single-Cell RNA Sequencing and Data Analysis]() |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html)|
-|2017-09-04 | 2017-09-07| [Course: Machine Learning for Biologists]() |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2017/09/04/MachineLearning-Trento.html)|
-|2014 | 2017| [Conference:BMTL]() |Main Organizer, Workshop, Bringing Maths to Life| [Link](http://www.bmtl.it/)|
-|2008 | 2016| [Conference]() |Memorial Lecture, Graziella Persico Memorial Lecture and PhD student Scientific Travelling Award| [Link](https://www.cnr.it/en/event/13562/5th-graziella-persico-lecture-phd-student-travel-award)|
+|2017 | 2021| *EMBO Practical Course Population Genomics:background, and tools* |Advisor, Programme Committee| [Link](https://embo-popgen.centercongressi.com/faculty.php)|
+|2019 | 2021| *Conference:BioHackathon-europe* |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
+|2019-07-03 | 2019-07-05| *Course: Software Carpentry Workshop - Shell, Git, R* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/)|
+|2019-05-07 | 2019-05-09| *Course:Practical course on Single-Cell RNA Sequencing and Data Analysis* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html)|
+|2017-09-04 | 2017-09-07| *Course: Machine Learning for Biologists* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2017/09/04/MachineLearning-Trento.html)|
+|2014 | 2017| *Conference:BMTL*|Main Organizer, Workshop, Bringing Maths to Life| [Link](http://www.bmtl.it/)|
+|2008 | 2016| *Conference* |Memorial Lecture, Graziella Persico Memorial Lecture and PhD student Scientific Travelling Award| [Link](https://www.cnr.it/en/event/13562/5th-graziella-persico-lecture-phd-student-travel-award)|
 
 # Recent Platform Talks, Keynotes and Invited Seminars
 
