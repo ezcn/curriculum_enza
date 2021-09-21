@@ -16,15 +16,22 @@
 ## Courses and Conference organisation
 |DateStart| DateEnd| Conferences/Courses |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|2017 | 2021| *EMBO Practical Course Population Genomics:background, and tools* |Advisor, Programme Committee| [Link](https://embo-popgen.centercongressi.com/faculty.php)|
-|2019 | 2021| *Conference:BioHackathon-europe* |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
-|2019-07-03 | 2019-07-05| *Course: Software Carpentry Workshop - Shell, Git, R* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/)|
-|2019-05-07 | 2019-05-09| *Course:Practical course on Single-Cell RNA Sequencing and Data Analysis* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html)|
-|2017-09-04 | 2017-09-07| *Course: Machine Learning for Biologists* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2017/09/04/MachineLearning-Trento.html)|
-|2014 | 2017| *Conference:BMTL*|Main Organizer, Workshop, Bringing Maths to Life| [Link](http://www.bmtl.it/)|
-|2008 | 2016| *Conference* |Memorial Lecture, Graziella Persico Memorial Lecture and PhD student Scientific Travelling Award| [Link](https://www.cnr.it/en/event/13562/5th-graziella-persico-lecture-phd-student-travel-award)|
+|2021-03-16|2021-03-25|*EMBO Practical Course Population Genomics:background, and tools* |Main Organizer| [Link](https://meetings.embo.org/event/20-populationgenomics)|
+|2019-03-30|2019-04-06|*EMBO Practical Course Population Genomics:background, and tools* |Main Organizer, Instructor| [Link](https://meetings.embo.org/event/19-population-genomics)|
+|2018-04-21|2018-04-27|*EMBO Practical Course Population Genomics:background, and tools* |Main Organizer, Instructor| [Link](https://github.com/ELIXIR-IIB-training/POPGEN2018)|
+|2017-05-18|2017-05-26|*EMBO Practical Course Population Genomics:background, and tools* |Main Organizer, Instructor| [Link](https://meetings.embo.org/event/17-population-genomics)|
+|2021-11-08|2021-11-12|*Conference:BioHackathon-europe* |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
+|2020-11-09|2020-11-13|*Conference:BioHackathon-europe* |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
+|2019-11-18|2019-11-22|*Conference:BioHackathon-europe* |Advisor, Programme Committee| [Link](https://biohackathon-europe.org/)|
+|2019-07-03|2019-07-05|*Course: Software Carpentry Workshop - Shell, Git, R* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/)|
+|2019-05-07|2019-05-09|*Course:Practical course on Single-Cell RNA Sequencing and Data Analysis* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html)|
+|2017-09-04|2017-09-07|*Course: Machine Learning for Biologists* |Advisor, Programme Committee| [Link](https://elixir-iib-training.github.io/website/2017/09/04/MachineLearning-Trento.html)|
+|2014 | 2017|*Conference:BMTL*|Main Organizer, Workshop, Bringing Maths to Life| [Link](http://www.bmtl.it/)|
+|2008 | 2016|*Conference and Prize (yearly)*|Memorial Lecture, Graziella Persico Memorial Lecture and PhD student Scientific Travelling Award| [Link](https://www.cnr.it/en/event/13562/5th-graziella-persico-lecture-phd-student-travel-award)|
 
 # Recent Platform Talks, Keynotes and Invited Seminars
+
+
 
 
 
